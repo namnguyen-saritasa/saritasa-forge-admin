@@ -343,7 +343,7 @@ public class Shop
 
 # Customizing Entities
 
-In the admin panel, you can customize the way entities are displayed using the Fluent API or special attribites. This enables you to set various properties for your entities, such as their name, description, plural name, etc.
+In the admin panel, you can customize the way entities are displayed using the Fluent API or special attributes. This enables you to set various properties for your entities, such as their name, description, plural name, etc.
 
 ## Fluent API
 
